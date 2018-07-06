@@ -12,7 +12,7 @@ import datetime
 
 #Music from Naruto
 music = pyglet.resource.media('music.mp3')  #Song need to stop when there is a soundeffect and need to infinitely loop until you quit the game.
-# music.play()
+music.play()
 
 # pyglet.app.run()
 
